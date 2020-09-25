@@ -1,0 +1,8 @@
+body {background-color: #7a685a ;}
+#flex {
+    display: flex;
+    flex-direction: row;}
+nav {background-color: #f0e3d8;
+}
+main {background-color: #dccdc0;
+}
